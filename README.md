@@ -2,6 +2,6 @@ Este repositorio incluye una clase java para jugar al doble o nada: El usuario a
 
 Ejecución en consola:
 - Primero tenemos que tener instalados maven y java.
-- Debe hacer un git clone en el directorio donde está el pom.xml.
+- Debemos hacer un git clone en el directorio donde está el pom.xml.
 - Desde aquí utilizamos el comando "mvn package" para construitr el proyecto.
 - Una vez construido procederemos a ejecutarlo con el siguiente comando: java -cp target/1Practica2Trimestre-0.0.1-SNAPSHOT.jar DobleoNada.
