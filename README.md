@@ -5,3 +5,7 @@ Ejecución en consola:
 - Debemos hacer un git clone.
 - Desde el directorio donde está el pom.xml utilizamos el comando "mvn package" para construitr el proyecto.
 - Una vez construido procederemos a ejecutarlo con el siguiente comando: java -cp target/1Practica2Trimestre-0.0.1-SNAPSHOT.jar DobleoNada
+
+
+####Modificación de Juasanmon
+He añadido este comentario a tu readme.
